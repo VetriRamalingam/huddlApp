@@ -1,0 +1,36 @@
+.fullpost{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    min-height: 500px;
+    border: 1px solid #b2abab;
+}
+.body-container{
+    text-align: initial;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.header{
+    font-weight: 500;
+    font-size: 30px;
+}
+.header-button{
+    float: right;
+}
+.button{
+    height: fit-content;
+}
+
+.footer{
+    margin-top: auto;
+}
+
+.commentcontainer{
+    min-height: 150px;
+    display: flex;
+    background: #fafafa;
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,14 @@
+.HomeContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Posts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%
+}
+.Searchbar{
+    padding: 20px;
+}

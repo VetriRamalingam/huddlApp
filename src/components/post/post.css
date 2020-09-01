@@ -1,0 +1,27 @@
+.Post{
+    width: 250px;
+    text-align: center;
+    border: 1px solid #d9d9d9;
+    box-shadow: 0 2px 3px #e7e7e7;
+    margin: 5px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.TitleContainer{
+    min-height: 150px;
+    padding: 15px;
+}
+.TitleContainer:hover,
+.TitleContainer:active{
+    background: #c7cacd;
+}
+.UserDetails{
+    padding: 16px 0;
+    font-weight: 500;
+}
+
+.UserDetails:hover,
+.UserDetails:active{
+    background-color: #C0DDF5;
+}

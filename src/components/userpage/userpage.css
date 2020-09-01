@@ -1,0 +1,54 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    min-height: 500px;
+    border: 1px solid #b2abab;
+}
+.User-Container{
+    display: flex;
+    width: 700px;
+    padding: 20px 0 0 0;
+}
+.title{
+    font-weight: 600;
+    width: 160px;
+    text-align: initial;
+}
+.element-Container{
+    padding-left: 15px;
+}
+.Company-Container{
+    display: flex;
+    background: #fafafa;
+    padding:  20px 0 0 0;
+    width: 700px;
+}
+.C-Container{
+    padding-bottom: 20px;
+}
+.C-row{
+    display: flex;
+    padding-left: 15px;
+}
+.Ctitle{
+    font-weight: 500;
+    width: 110px;
+    text-align: initial;
+}
+.header{
+    font-weight: 500;
+    font-size: 30px;
+    width: 100%;
+}
+.header-button{
+    float: right;
+}
+.button{
+    height: fit-content;
+}
+.footer{
+    margin-top: auto;
+}
